@@ -1,0 +1,5 @@
+rhsafrf\addons\rhs_c_weapons
+prefix=rhsafrf\addons\rhs_c_weapons
+Mikero=DePbo.dll
+version=RedHammerStudios
+Pbo Type is: Arma
