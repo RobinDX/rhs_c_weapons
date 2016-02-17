@@ -7290,5 +7290,3 @@ class CfgWeapons
 	class Default;
 	class Put: Default
 	{
-//DeRap: Unknown Entry type
-DeRap: Unknown Entry type
